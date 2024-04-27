@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BHUVAN BHASKER SINGH 👋 Hi, I’m Aman kumar mishra from Lucknow currently pursuing B.tech from Khwaja Moinuddin Chishti Language University Lucknow, UP. I really enjoy learning languages like Python and i have learned python at Intermediate level.
+<h1 align="center">👋 Hi, I’m  from Lucknow currently pursuing B.tech from Khwaja Moinuddin Chishti Language University Lucknow, UP. I really enjoy learning languages like Python and i have learned python at Intermediate level.
 👀 I’m interested in ...Reading Books
 🌱 I’m currently learning ...Data Science with python.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
