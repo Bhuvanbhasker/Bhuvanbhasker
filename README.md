@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm BHUVAN BHASKER SINGH</h1>
+<h1 align="center">Hi 👋, I'm BHUVAN BHASKER SINGH 👋 Hi, I’m Aman kumar mishra from Lucknow currently pursuing B.tech from Khwaja Moinuddin Chishti Language University Lucknow, UP. I really enjoy learning languages like Python and i have learned python at Intermediate level.
+👀 I’m interested in ...Reading Books
+🌱 I’m currently learning ...Data Science with python.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://i.gifer.com/1Kte.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanbhasker&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanbhasker" /> </p>
